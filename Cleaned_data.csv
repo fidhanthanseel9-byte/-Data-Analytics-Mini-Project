@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Customer_Category,Region,Product_Category,Unit_Price,Quantity,Discount,Shipping_Cost,Payment_Method,Total_Revenue,Total_Cost,Net_Profit,Profit_Margin
+ORD-10001,2025-02-02,Home Office,East,Electronics,374.65,4,0.05,7.79,Credit Card,1423.67,906.95,516.72,0.3629
+ORD-10002,2025-03-03,Home Office,East,Technology,30.41,2,0.05,9.65,Credit Card,57.78,46.14,11.64,0.2015
+ORD-10003,2025-04-04,Home Office,West,Technology,121.91,10,0.1,21.19,Credit Card,1097.19,752.65,344.54,0.314
+ORD-10004,2025-05-05,Consumer,South,Supplies,149.77,4,0.1,7.04,UPI,539.17,366.49,172.68,0.3203
+ORD-10005,2025-06-06,Corporate,Central,Furniture,433.04,7,0.15,22.75,UPI,2576.59,1841.52,735.07,0.2853
+ORD-10006,2025-07-07,Home Office,West,Furniture,379.74,5,0.0,24.3,Debit Card,1898.7,1163.52,735.18,0.3872
+ORD-10007,2025-08-08,Consumer,Central,Technology,181.76,2,0.15,18.06,Debit Card,309.0,236.17,72.83,0.2357
+ORD-10008,2025-09-09,Corporate,West,Supplies,244.6,7,0.15,19.86,Credit Card,1455.37,1047.18,408.19,0.2805
+ORD-10009,2025-10-10,Consumer,East,Furniture,473.0,3,0.05,20.89,Credit Card,1348.05,872.29,475.76,0.3529
+ORD-10010,2025-11-11,Consumer,South,Supplies,173.23,2,0.2,18.89,UPI,277.17,226.77,50.4,0.1818
+ORD-10011,2025-12-12,Consumer,East,Electronics,279.17,8,0.0,7.94,Debit Card,2233.36,1347.96,885.4,0.3964
+ORD-10012,2025-01-01,Home Office,East,Supplies,454.49,2,0.0,17.2,Debit Card,908.98,562.59,346.39,0.3811
+ORD-10013,2025-02-02,Consumer,West,Electronics,167.33,1,0.0,9.97,PayPal,167.33,110.37,56.96,0.3404
+ORD-10014,2025-03-03,Home Office,West,Supplies,404.28,1,0.0,23.3,UPI,404.28,265.87,138.41,0.3424
+ORD-10015,2025-04-04,Corporate,West,Technology,23.85,5,0.05,21.78,Debit Card,113.29,93.33,19.96,0.1762
+ORD-10016,2025-05-05,Consumer,East,Supplies,130.65,1,0.0,11.83,UPI,130.65,90.22,40.43,0.3094
+ORD-10017,2025-06-06,Home Office,South,Supplies,115.11,3,0.1,9.08,PayPal,310.8,216.28,94.52,0.3041
+ORD-10018,2025-07-07,Corporate,East,Furniture,478.71,5,0.0,18.89,Debit Card,2393.55,1455.02,938.53,0.3921
+ORD-10019,2025-08-08,Consumer,East,Supplies,392.51,6,0.0,11.13,Debit Card,2355.06,1424.17,930.89,0.3953
+ORD-10020,2025-09-09,Corporate,West,Electronics,279.7,8,0.2,16.27,PayPal,1790.08,1358.83,431.25,0.2409
